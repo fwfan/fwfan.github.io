@@ -4,11 +4,11 @@
 
 # Site
 title: 努力加餐饭
-subtitle: 
-description: ''
+subtitle: "test-subtitle"
+description: 'test-description'
 keywords:
 author: fwfan
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
